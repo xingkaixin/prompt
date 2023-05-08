@@ -1,0 +1,12 @@
+give me data like {"name":"text","cost":cost_fee,"type":"cost_category;cost_type","prsn":"多个人;分割，没有人为空"}
+EX:
+Cost_Category/Cost_Type:
+餐饮:早餐/午餐/晚餐/夜宵/零食/甜品/饮料
+住宿:住宿
+交通:步行/自行车/公交/地铁/火车/租车/出租车/油费/停车费/过路费/违章罚款/大巴/飞机/轮船
+购物:纪念品/化妆品
+景点:门票/导游
+资金:多退少补/借贷/转账/清算/充值/取款/存款
+娱乐:话剧/电影/演唱会
+杂项:医药/保险/WIFI/电话卡/护照/签证/快递
+{time_period},{content}

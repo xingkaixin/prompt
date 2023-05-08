@@ -1,0 +1,7 @@
+description = "findig qa"
+
+[completion]
+model_name = "gpt-3.5-turbo"
+max_token = "2048"
+temperature = 0.0
+stream = true
